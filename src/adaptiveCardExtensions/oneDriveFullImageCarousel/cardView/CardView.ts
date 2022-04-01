@@ -7,7 +7,7 @@ import {
   ISPFxAdaptiveCard
 } from '@microsoft/sp-adaptive-card-extension-base';
 import * as strings from 'OneDriveFullImageCarouselAdaptiveCardExtensionStrings';
-import { IOneDriveFullImageCarouselAdaptiveCardExtensionProps, IOneDriveFullImageCarouselAdaptiveCardExtensionState, QUICK_VIEW_REGISTRY_ID } from '../OneDriveFullImageCarouselAdaptiveCardExtension';
+import { IOneDriveFullImageCarouselAdaptiveCardExtensionProps, IOneDriveFullImageCarouselAdaptiveCardExtensionState } from '../OneDriveFullImageCarouselAdaptiveCardExtension';
 
 export class CardView extends BaseBasicCardView<IOneDriveFullImageCarouselAdaptiveCardExtensionProps, IOneDriveFullImageCarouselAdaptiveCardExtensionState> {
   public get cardButtons(): [ICardButton] | [ICardButton, ICardButton] | undefined {

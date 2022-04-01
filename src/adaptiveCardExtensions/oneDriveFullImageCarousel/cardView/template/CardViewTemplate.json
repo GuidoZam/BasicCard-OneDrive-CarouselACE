@@ -9,7 +9,8 @@
                 "url": "${primaryText}",
                 "horizontalAlignment": "Center",
                 "verticalAlignment": "Center"
-            }
+            },
+            "selectAction": "${selectAction}"
         }
     ]
 }
