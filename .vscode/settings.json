@@ -12,7 +12,7 @@
     "**/coverage": true,
     "**/lib-amd": true,
     "src/**/*.scss.ts": true,
-    "**/node_modules": false
+    "**/node_modules": true
   },
   "typescript.tsdk": ".\\node_modules\\typescript\\lib"
 }
