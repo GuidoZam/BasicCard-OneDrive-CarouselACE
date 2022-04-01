@@ -29,10 +29,10 @@ export class CardView extends BaseBasicCardView<IOneDriveFullImageCarouselAdapti
     
     let imageUrl: string = require('../assets/MicrosoftLogo.png');
     
-    if (this.state.targetFolder && this.state.targetFolder.children) {
+    if (this.state.targetFolder && this.state.targetFolder.children && this.state.targetFolder.children.length > 0) {
       imageUrl = this.state.targetFolder.children[this.state.itemIndex].webUrl;
     }
-
+    
     return imageUrl;
   }
 
