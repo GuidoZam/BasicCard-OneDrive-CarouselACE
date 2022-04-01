@@ -5,14 +5,11 @@
     "body": [
         {
             "type": "Container",
-            "backgroundImage": "${primaryText}",
-            "items": [
-                {
-                    "type": "Image",
-                    "url": "${primaryText}",
-                    "size": "stretch"
-                }
-            ]
+            "backgroundImage": {
+                "url": "${primaryText}",
+                "horizontalAlignment": "Center",
+                "verticalAlignment": "Center"
+            }
         }
     ]
 }
