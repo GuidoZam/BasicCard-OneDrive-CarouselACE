@@ -1,4 +1,4 @@
-# basic-card-one-drive-carousel-ace
+# basic-card-one-drive-carousel
 
 ## Summary
 
@@ -6,9 +6,15 @@ Viva Connection Adaptive Card Extension (ACE) that shows a carousel of the image
 
 >This solution override part of the default behavior of the basic card view.
 
+Large card view
+
 ![CardView](./assets/largeCardView.png)
 
+Medium card view
+
 ![CardView](./assets/mediumCardView.png)
+
+Property pane
 
 ![Property Pane](./assets/PropertyPane.png)
 
@@ -32,13 +38,13 @@ Viva Connection Adaptive Card Extension (ACE) that shows a carousel of the image
 
 Solution|Author(s)
 --------|---------
-basic-card-one-drive-carousel-ace | [GuidoZam](https://github.com/GuidoZam)
+basic-card-one-drive-carousel | [GuidoZam](https://github.com/GuidoZam)
 
 ## Version history
 
 Version|Date|Comments
 -------|----|--------
-1.0|April 1, 2022|Initial release
+1.0|April 11, 2022|Initial release
 
 ## Disclaimer
 

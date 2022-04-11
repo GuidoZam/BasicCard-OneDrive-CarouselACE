@@ -4,7 +4,7 @@
     "isCreatingSolution": true,
     "environment": "spo",
     "version": "1.13.0",
-    "libraryName": "basic-card-one-drive-carousel-ace",
+    "libraryName": "basic-card-one-drive-carousel",
     "libraryId": "0eb31e53-aba9-4115-a2f2-13b971af9e99",
     "packageManager": "npm",
     "isDomainIsolated": false,
