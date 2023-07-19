@@ -5,6 +5,7 @@
 Viva Connection Adaptive Card Extension (ACE) that shows a carousel of the images inside a OneDrive folder without any buttons or quick views.
 
 >⚠️ This solution override part of the default behavior of the basic card view.
+>
 >⚠️ Actually not working, it displays the image URL instead of the image itself
 
 Large card view
